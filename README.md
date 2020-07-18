@@ -1,13 +1,12 @@
 # Aplicación del clima
 
-Ésta aplicación sirve para saber el clima de cualquier ciudad
+Con esta aplicación podras conocer el clima actual de cualquier ciudad en el mundo.
+La aplicación del clima está desarrollada en nodejs y hace uso de dos API's mediante axios para obtener la información necesaria.
 
 ## Requisitos
 
-Tener instalados los programas
-
-- NPM
-- NodeJS
+- Tener instalado nodejs y npm.
+- Una conexión a internet
 
 ## Instalción 
 
